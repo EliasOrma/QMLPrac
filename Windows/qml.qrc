@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>windowsfront.qml</file>
+        <file>rect.qml</file>
+    </qresource>
+</RCC>
